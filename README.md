@@ -136,7 +136,8 @@ void IRPAIR()
 
 ## OUTPUT:
 ![on](https://github.com/user-attachments/assets/2b6b4c8d-bd37-40b5-9d28-66309acdda70)
-![off](https://github.com/user-attachments/assets/c29c8077-d839-4ccb-b061-b9e6b4a19940)
+<img width="572" height="1280" alt="image" src="https://github.com/user-attachments/assets/77280791-8d36-4751-a269-34074871a1fc" />
+
 
 
 ## Result:
